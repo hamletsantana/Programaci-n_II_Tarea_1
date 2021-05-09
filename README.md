@@ -1,0 +1,2 @@
+En este proyecto de programación, podemos aprender sobre lo que es git y github y cómo podemos conectar los mismos.
+Se nos pide conocer un poco sobre lo que es el SDK de un lenguaje de programación y también a como ejecutar usando consola.
